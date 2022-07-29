@@ -5,6 +5,9 @@ In this article, we will learn about how to perform file upload in ASP.NET Core 
 
 The complete article is available at https://procodeguide.com/programming/file-upload-in-aspnet-core/
 
+Configuration in ASP.NET Core 6
++ https://stackoverflow.com/questions/69722872/asp-net-core-6-how-to-access-configuration-during-startup
+
 Swagger for .NET 6 in ASP.NET Core Web API
 + https://www.talkingdotnet.com/add-swagger-to-asp-net-core-6-app/
 
