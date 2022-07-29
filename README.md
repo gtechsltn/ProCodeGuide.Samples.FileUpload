@@ -7,3 +7,9 @@ The complete article is available at https://procodeguide.com/programming/file-u
 
 Swagger for .NET 6 + ASP.NET Core Web API
 https://www.talkingdotnet.com/add-swagger-to-asp-net-core-6-app/
+
+Swagger UI ASP.NET Core Web API
+https://code-maze.com/swagger-ui-asp-net-core-web-api/
+
+Implement authorization for Swagger in ASP.NET Core 6
+https://www.infoworld.com/article/3650668/implement-authorization-for-swagger-in-aspnet-core-6.html
