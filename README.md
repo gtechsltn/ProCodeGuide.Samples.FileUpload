@@ -5,6 +5,9 @@ In this article, we will learn about how to perform file upload in ASP.NET Core 
 
 The complete article is available at https://procodeguide.com/programming/file-upload-in-aspnet-core/
 
+Upload Large File in ASP.NET Core
++ https://github.com/gtechsltn/upload-large-files-in-aspnet-core
+
 Configuration in ASP.NET Core 6
 + https://stackoverflow.com/questions/69722872/asp-net-core-6-how-to-access-configuration-during-startup
 
@@ -20,3 +23,13 @@ Implement Authorization for Swagger in ASP.NET Core 6
 Implement Authentication in ASP.NET Core Web API
 + https://github.com/jignesht24/Aspnetcore/tree/master/JWTAuthentication (GOOD)
 + https://jasonwatmore.com/post/2021/12/14/net-6-jwt-authentication-tutorial-with-example-api (NOT USE)
++ https://www.c-sharpcorner.com/article/how-to-implement-jwt-authentication-in-web-api-using-net-6-0-asp-net-core/ (NOT USE)
++ https://www.c-sharpcorner.com/article/jwt-authentication-and-authorization-in-net-6-0-with-identity-framework/ (NOT USE)
+
+Chunk Files
++ https://stackoverflow.com/questions/53123243/uploading-large-files-to-controller-in-chunks-using-httpclient-iformfile-always
+
+Web API 2
++ https://www.codeproject.com/Articles/1034347/Upload-Large-Files-to-MVC-WebAPI-using-Partitionin
++ https://www.c-sharpcorner.com/article/upload-large-files-to-mvc-webapi-using-partitioning/
++ https://github.com/blueimp/jQuery-File-Upload/
