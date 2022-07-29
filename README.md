@@ -13,3 +13,6 @@ Swagger UI ASP.NET Core Web API
 
 Implement authorization for Swagger in ASP.NET Core 6
 + https://www.infoworld.com/article/3650668/implement-authorization-for-swagger-in-aspnet-core-6.html
+
+Implement Authention in ASP.NET Core Web API
++ https://github.com/jignesht24/Aspnetcore/tree/master/JWTAuthentication
